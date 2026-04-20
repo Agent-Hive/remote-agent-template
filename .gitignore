@@ -1,0 +1,9 @@
+node_modules/
+.hive/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+logs/
+work/
